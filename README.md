@@ -1,6 +1,6 @@
 # stackoverflow-statisztika-mo
 
-Ez egy egyszeru, kezdo adatelemzos projektem a Stack Overflow survey adatai alapjan.
+Ez egy egyszerű, kezdo adatelemzős projektem a Stack Overflow survey adatai alapján.
 
 ## Mi van benne?
 
@@ -12,11 +12,12 @@ Ez egy egyszeru, kezdo adatelemzos projektem a Stack Overflow survey adatai alap
 
 ## Hogyan futtasd?
 
-1. Tedd be a survey_results_public.csv fajlt a projekt mappajaba.
+1. Tedd be a survey_results_public.csv fájlt a projekt mappájaba.
 2. Nyisd meg a notebookokat VS Code-ban.
-3. Futtasd a cellakat felulrol lefele.
+3. Futtasd a cellákat felülről lefele.
 
-## Megjegyzes
+## Megjegyzés
 
-- A CSV fajl nagy, ezert nincs feltoltve GitHubra.
-- Ez tanulasi projekt, lehetnek benne egyszeru megoldasok.
+- A CSV fájl nagy, ezért nincs feltöltve GitHubra, de itt le tudod tölteni:
+- https://www.kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024?select=survey_results_public.csv
+- Ez tanulási projekt, lehetnek benne egyszerű megoldások.
