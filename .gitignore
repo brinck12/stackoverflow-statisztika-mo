@@ -1,0 +1,9 @@
+# Large local dataset (over GitHub 100 MB limit)
+survey_results_public.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
